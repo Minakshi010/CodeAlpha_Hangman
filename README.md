@@ -28,6 +28,3 @@ This project is built to demonstrate **basic game logic, GUI programming, and us
 - **Random Module**
 - **Git & GitHub**
 
----
-
-## 📂 Project Structure
