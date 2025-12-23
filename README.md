@@ -2,6 +2,8 @@
 # Hangman Game (GUI) 
 
 📌 Project Description
+
+
 The **Hangman GUI Game** is a Python-based graphical application where the player guesses a hidden word one letter at a time.  
 The player has a limited number of incorrect attempts to guess the word correctly before the game ends.
 
